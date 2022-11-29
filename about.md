@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hello, I'm bshzn777 from KMU
+  Hello, I'm bshzn777
 </p>
 
 Sites to making my github blog:
