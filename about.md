@@ -4,10 +4,8 @@ title: About
 ---
 
 <p class="message">
-  Hello
+  Hello, I'm bshzn777 from KMU
 </p>
-
-I'm bshzn777 from KMU
 
 Sites to making my github blog:
 
@@ -16,7 +14,6 @@ Sites to making my github blog:
 * [Markdown Editor](https://dillinger.io/)
 * [Jekyll](https://jekyllrb.com/)
 * [Lanyon theme](http://lanyon.getpoole.com)
-* [Disqus](https://disqus.com/)
 
 About me:
 
