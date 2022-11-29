@@ -39,9 +39,11 @@ date: 2022-11-29
     2. Ordered List 2
 
 7. Code : \'...'
+
     `print()`
 
 8. Code Block : \`\`\`...```
+
     ```python
     def powr(x: int):
     	return x ** 2
