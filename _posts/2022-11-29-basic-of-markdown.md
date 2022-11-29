@@ -4,7 +4,7 @@ title: "basic of markdown"
 date: 2022-11-29
 ---
 
-# Markdown이란?
+## Markdown이란?
 일반 텍스트로 서식이 있는 문서를 작성하는 방법
 ## Markdown 문법
 ---
@@ -41,7 +41,7 @@ date: 2022-11-29
 7. Code : \'...'
     `print()`
 
-8. Code Block : \```...```
+8. Code Block : \`\`\`...```
     ```python
     def powr(x: int):
     	return x ** 2
