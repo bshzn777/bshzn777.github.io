@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hello, I'm bshzn777
+  Hello, I'm bshzn777 20223085 배상혁
 </p>
 
 Sites to making my github blog:
