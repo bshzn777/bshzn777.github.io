@@ -1,4 +1,4 @@
-How to build my project by 20223085 배상혁
+How to build my project
 
 ---
 
